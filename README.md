@@ -1,2 +1,2 @@
 # gcp_sample
-Sample Terraform Code for GCP
+This is a repo contain sample Terraform Code for GCP
